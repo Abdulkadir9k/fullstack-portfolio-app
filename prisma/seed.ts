@@ -1,3 +1,4 @@
+// we run 'npx prisma db seed' when we modify this file and run 'npx prisma studio' to visualize the database table in prisma
 import prisma from "@/lib/db"
 
 async function main() {
